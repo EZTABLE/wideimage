@@ -1,6 +1,6 @@
 {
-    "name": "spekkionu/wideimage",
-    "description": "An open-source PHP library for image manipulation",
+    "name": "eztable/wideimage",
+    "description": "An open-source PHP library for image manipulation. (Patched by EZTABLE)",
     "homepage": "http://wideimage.sourceforge.net",
     "type": "library",
     "license": ["GPL-2.0","LGPL-2.1"],
